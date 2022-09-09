@@ -3,7 +3,7 @@ Virtual Keyboard using only HTML and Css.
 
 
 
-i'll expland step by step how to create this little project
+i'll expland step by step how to build this little project
 
 
 Step 1:
